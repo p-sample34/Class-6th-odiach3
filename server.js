@@ -11,7 +11,7 @@ const app = express();
 
 // Enable CORS with specific options
 const corsOptions = {
-  origin: 'https://manishbro500.github.io', // Allow only this origin
+  origin: 'https://p-sample34.github.io', // Allow only this origin
   methods: ['GET', 'POST', 'DELETE'],
   allowedHeaders: ['Content-Type'],
 };
